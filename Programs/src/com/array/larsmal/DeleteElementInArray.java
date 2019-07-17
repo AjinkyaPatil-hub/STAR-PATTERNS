@@ -1,5 +1,6 @@
 /*
- * 	1>to delete an element from the array 
+ * 
+	1>to delete an element from the array 
  * 		step 1 we would first find the number that is to be deleted
  * 		step 2 then we would match that element
  * 		step 3 after matching we would again traverse the array from found nuber and swap the element to legt side
